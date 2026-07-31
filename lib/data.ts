@@ -165,7 +165,7 @@ export const projects = [
       "Plateforme complète de gestion de commandes et de ventes, offrant une expérience client fluide, un suivi des achats et des outils d'administration avancés pour la gestion des produits, des utilisateurs et des commandes.",
     tags: ["E-commerce", "Gestion des commandes", "Tableau de bord"],
     image: "/assets/order-hub.jpg",
-    github: "https://github.com/",
+    github: "https://github.com/mohamedNadjib/order-hub",
   },
   {
     name: "Carpooler",
@@ -173,7 +173,7 @@ export const projects = [
       "Application de mise en relation de covoiturage dotée de fonctionnalités de géolocalisation en temps réel, de gestion d'itinéraires et de coordination dynamique entre conducteurs et passagers.",
     tags: ["Mobilité", "Géolocalisation", "Temps réel", "UX"],
     image: "/assets/carpooler.png",
-    github: "https://github.com/",
+    github: "https://github.com/mohamedNadjib/Carpooler",
   },
   {
     name: "OXXO-PHONE",
@@ -181,7 +181,7 @@ export const projects = [
       "Intégration de la téléphonie d'entreprise 3CX à WHMCS, avec supervision IPBX et gestion d'appels permettant d'améliorer l'efficacité du support client et la gestion des services telecom.",
     tags: ["Intégration", "Téléphonie", "WHMCS", "3CX"],
     image: "/assets/oxxo-phone.png",
-    github: "https://github.com/",
+    github: "https://github.com/mohamedNadjib/OXXO-PHONE",
   },
 ];
 
